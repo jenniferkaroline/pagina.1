@@ -1,0 +1,44 @@
+table, th, td {
+    border: 1px solid;
+    font-family: Tahoma;
+}
+
+.Horarios {
+    background-color: lightgray;
+}
+
+.redes {
+    background-color: lightseagreen;
+}
+
+.lpl {
+    background-color: lightsalmon;
+}
+
+.mat {
+    background-color: lightcoral;
+}
+
+.fil {
+    background-color: lightgreen;
+}
+
+.his {
+    background-color: lightpink;
+}
+
+.manut {
+    background-color: yellow;
+}
+
+.qui {
+    background-color: aquamarine;
+}
+
+.aw {
+    background-color: blueviolet;
+}
+
+.bio {
+    background-color: lightblue;
+}
